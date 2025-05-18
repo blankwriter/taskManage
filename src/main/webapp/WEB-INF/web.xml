@@ -24,35 +24,7 @@
     <location>/WEB-INF/views/error.jsp</location>
   </error-page>
 
-  <!--    <servlet>-->
-  <!--        <servlet-name>HomeServlet</servlet-name>-->
-  <!--        <servlet-class>com.novatech.taskflow.controller.HomeServlet</servlet-class>-->
-  <!--    </servlet>-->
-  <!--    <servlet-mapping>-->
-  <!--        <servlet-name>HomeServlet</servlet-name>-->
-  <!--        <url-pattern>/home</url-pattern>-->
-  <!--        <url-pattern>/dashboard</url-pattern>-->
-  <!--        <url-pattern>/</url-pattern>-->
-  <!--    </servlet-mapping>-->
 
-  <!--    <servlet>-->
-  <!--        <servlet-name>TaskServlet</servlet-name>-->
-  <!--        <servlet-class>com.novatech.taskflow.controller.TaskServlet</servlet-class>-->
-  <!--    </servlet>-->
-  <!--    <servlet-mapping>-->
-  <!--        <servlet-name>TaskServlet</servlet-name>-->
-  <!--        <url-pattern>/tasks/*</url-pattern>-->
-  <!--    </servlet-mapping>-->
-
-  <!--    <servlet>-->
-  <!--        <servlet-name>TaskRestServlet</servlet-name>-->
-  <!--        <servlet-class>com.novatech.taskflow.controller.TaskRestServlet</servlet-class>-->
-  <!--    </servlet>-->
-  <!--    <servlet-mapping>-->
-  <!--        <servlet-name>TaskRestServlet</servlet-name>-->
-  <!--        <url-pattern>/api/tasks/*</url-pattern>-->
-  <!--    </servlet-mapping>-->
-  <!-- Session configuration -->
 
   <session-config>
     <session-timeout>30</session-timeout>
